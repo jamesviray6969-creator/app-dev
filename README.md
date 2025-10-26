@@ -6,7 +6,7 @@ My first repository
 ## 1. **Twilight Saga**
 - *Genre:* Fantasy / Romance  
 - The story of Bella and Edward — a love story between a vampire and a human.  
-- ![Twilight Saga Poster](https://upload.wikimedia.org/wikipedia/en/e/e1/Twilight_Poster.jpg)
+- ![Twilight Saga Trailer]([https://upload.wikimedia.org/wikipedia/en/e/e1/Twilight_Poster.jpg](https://www.imdb.com/title/tt1099212/))
 
 ---
 
@@ -26,7 +26,7 @@ My first repository
 ## 4. **Marvel Cinematic Universe (MCU)**
 - *Genre:* Action / Superhero  
 - A collection of interconnected superhero films featuring Iron Man, Captain America, Thor, and more.  
-- ![Marvel Logo](https://upload.wikimedia.org/wikipedia/commons/0/0c/MarvelLogo.svg)
+- ![Marvel Pic](pinterest.com/pin/597501075543342921/)
 
 ---
 
